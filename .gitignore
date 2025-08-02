@@ -1,0 +1,23 @@
+# IDE related
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Python environments
+__pycache__/
+*.py[cod]
+.python-version
+venv/
+env/
+.env
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs and caches
+*.log
+
+# System files
+Thumbs.db
